@@ -23,6 +23,10 @@ h1 {
     font-size: 3rem;
     color: white;
 }
+.count {
+    font-size: 5rem;
+    color: darkblue;
+}
 button {
     text-align: center;
     border: 2px solid transparent;
@@ -40,6 +44,8 @@ button {
 .reset-all {
     background-color: lightcoral;
 }
-.red{
-    
+.taps {
+    font-size: 2rem;
+    color: lightblue;
+    margin-bottom: 1rem;
 }
